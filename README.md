@@ -18,3 +18,8 @@ In order for the program to work you first need to change your permission
 5) Scroll down the bottom and click "Enable IMAP"
 6) Select "Auto-Expunge off - Wait for the client to update the server"
 7) Finally select "Move the message to the Bin"
+
+### How to delete Emails
+1) Login into the client
+2) Click on the email you would like to delete 
+3) Click the delete button at the top  
