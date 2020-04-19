@@ -12,7 +12,7 @@ In order for the program to work you first need to change your permission
 
 ### Allow IMAP access
 1) Go to your gmail
-2)To the right just above your emails click the COG
+2) To the right just above your emails click the COG
 3) Click "Settings"
 4) Click on "Fowarding and POP/IMAP
 5) Scroll down the bottom and click "Enable IMAP"
