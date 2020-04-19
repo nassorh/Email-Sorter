@@ -1,6 +1,6 @@
 # Email-Sorter
 Manage all your emails using a simple GUI (Only Supports Gmail)
-No loading screen feature has been added, if the app freezes it means it loading; After login all emails are fetched causing a slow loading time please be patient as it could take up to 10 minutes to load depeneding on how many emails are in your inbox
+No loading screen feature has been added, if the app freezes it means it loading; After the login all emails are fetched causing a slow loading time please be patient as it could take up to 10 minutes to load depeneding on how many emails are in your inbox
 
 ## Permissions
 In order for the program to work you first need to change your permission
